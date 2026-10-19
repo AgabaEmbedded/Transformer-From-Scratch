@@ -134,6 +134,7 @@ defaults in `build_transformer`.
 - **Optimizer**: Adam, `lr=1e-4`, `eps=1e-9`.
 
 
+
 ## Reference
 
 - Vaswani et al., *Attention Is All You Need* (NeurIPS 2017):
